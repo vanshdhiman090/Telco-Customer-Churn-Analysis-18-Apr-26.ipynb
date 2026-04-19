@@ -49,8 +49,7 @@ This project follows the **Google Data Analytics 6-phase framework:**
 
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (SQLite)
-- Jupyter Notebook
+- Google collab notebook
 - GitHub
 
 ---
@@ -83,6 +82,4 @@ Electronic check users churn at 45.29% vs 15-17% for auto-pay users.
 Incentivize switching to automatic payments and bundle online security
 into base plans to improve retention.
 
----
 
-## Project Structure
